@@ -4,11 +4,12 @@ emoji: 💊
 colorFrom: yellow
 colorTo: red
 sdk: gradio
-sdk_version: 4.16.0
-app_file: drug_app.py
+sdk_version: 5.1.0
+app_file: app.py
 pinned: false
 license: apache-2.0
 ---
+
 
 *Learn how to automate model training, evaluation, versioning, and deployment using GitHub Actions with the easiest MLOps guide available online.*
 
